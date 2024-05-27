@@ -1,0 +1,9 @@
+body {
+    background-color: darkgray;
+    font-family: Verdana, "Lucida sans", sans-serif;
+}
+
+.homepage-description {
+    font-weight: bold;
+    text-align: center;
+}
